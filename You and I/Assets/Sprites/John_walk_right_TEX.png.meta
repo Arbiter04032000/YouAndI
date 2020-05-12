@@ -1,0 +1,1568 @@
+fileFormatVersion: 2
+guid: bee0c707e26378046bece6370ce1a626
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2598360310329236379
+    second: John_walk_right_TEX_0
+  - first:
+      213: 3260614467594683826
+    second: John_walk_right_TEX_1
+  - first:
+      213: 609346533976942290
+    second: John_walk_right_TEX_2
+  - first:
+      213: -8641603829141164966
+    second: John_walk_right_TEX_3
+  - first:
+      213: -9065089995203753217
+    second: John_walk_right_TEX_4
+  - first:
+      213: -7173105348071513990
+    second: John_walk_right_TEX_5
+  - first:
+      213: 4507118965207374551
+    second: John_walk_right_TEX_6
+  - first:
+      213: -8396029318182416902
+    second: John_walk_right_TEX_7
+  - first:
+      213: 5486177626119765900
+    second: John_walk_right_TEX_8
+  - first:
+      213: -5106397903833718131
+    second: John_walk_right_TEX_9
+  - first:
+      213: 8341483274463388892
+    second: John_walk_right_TEX_10
+  - first:
+      213: 5944747514334835389
+    second: John_walk_right_TEX_11
+  - first:
+      213: -8830706561253262908
+    second: John_walk_right_TEX_12
+  - first:
+      213: 885329745794299155
+    second: John_walk_right_TEX_13
+  - first:
+      213: -2916839591629986956
+    second: John_walk_right_TEX_14
+  - first:
+      213: -9005322355032466051
+    second: John_walk_right_TEX_15
+  - first:
+      213: 2691859617672358865
+    second: John_walk_right_TEX_16
+  - first:
+      213: -8477288771282079621
+    second: John_walk_right_TEX_17
+  - first:
+      213: 1590543422014370374
+    second: John_walk_right_TEX_18
+  - first:
+      213: 5697818595807891982
+    second: John_walk_right_TEX_19
+  - first:
+      213: 5759962978916098
+    second: John_walk_right_TEX_20
+  - first:
+      213: -6155454148203316435
+    second: John_walk_right_TEX_21
+  - first:
+      213: -5106248231711359848
+    second: John_walk_right_TEX_22
+  - first:
+      213: 120394318731066555
+    second: John_walk_right_TEX_23
+  - first:
+      213: 4296498063403311174
+    second: John_walk_right_TEX_24
+  - first:
+      213: -5557387082073396616
+    second: John_walk_right_TEX_25
+  - first:
+      213: -3060797395416487701
+    second: John_walk_right_TEX_26
+  - first:
+      213: 2398146386475699830
+    second: John_walk_right_TEX_27
+  - first:
+      213: -8353175953763650874
+    second: John_walk_right_TEX_28
+  - first:
+      213: -1636328831368889767
+    second: John_walk_right_TEX_29
+  - first:
+      213: -761173247739246239
+    second: John_walk_right_TEX_30
+  - first:
+      213: -2235820716452006003
+    second: John_walk_right_TEX_31
+  - first:
+      213: 5197847551618166178
+    second: John_walk_right_TEX_32
+  - first:
+      213: -3824807608759417710
+    second: John_walk_right_TEX_33
+  - first:
+      213: -3838851516793300210
+    second: John_walk_right_TEX_34
+  - first:
+      213: -5044460767847616176
+    second: John_walk_right_TEX_35
+  - first:
+      213: -8853790399668365131
+    second: John_walk_right_TEX_36
+  - first:
+      213: 731085096512585341
+    second: John_walk_right_TEX_37
+  - first:
+      213: -217270568612700833
+    second: John_walk_right_TEX_38
+  - first:
+      213: -34599054134071142
+    second: John_walk_right_TEX_39
+  - first:
+      213: -8022944031163245834
+    second: John_walk_right_TEX_40
+  - first:
+      213: -8374870825570763574
+    second: John_walk_right_TEX_41
+  - first:
+      213: -8034901660480810825
+    second: John_walk_right_TEX_42
+  - first:
+      213: 1141402521393524621
+    second: John_walk_right_TEX_43
+  - first:
+      213: -56631566021106349
+    second: John_walk_right_TEX_44
+  - first:
+      213: -2968491008910723091
+    second: John_walk_right_TEX_45
+  - first:
+      213: -6522710971966557832
+    second: John_walk_right_TEX_46
+  - first:
+      213: -5148156822112516182
+    second: John_walk_right_TEX_47
+  - first:
+      213: -4827505208401342130
+    second: John_walk_right_TEX_48
+  - first:
+      213: -2019360501726855746
+    second: John_walk_right_TEX_49
+  - first:
+      213: 2748286194278508447
+    second: John_walk_right_TEX_50
+  - first:
+      213: 7154113093341472488
+    second: John_walk_right_TEX_51
+  - first:
+      213: -7817264696894561639
+    second: John_walk_right_TEX_52
+  - first:
+      213: 9194741519283228337
+    second: John_walk_right_TEX_53
+  - first:
+      213: 3132000590820151016
+    second: John_walk_right_TEX_54
+  - first:
+      213: -4525526505439092972
+    second: John_walk_right_TEX_55
+  - first:
+      213: 7506480028901551289
+    second: John_walk_right_TEX_56
+  - first:
+      213: -7459422933617426351
+    second: John_walk_right_TEX_57
+  - first:
+      213: -5422174552217631789
+    second: John_walk_right_TEX_58
+  - first:
+      213: -3116411707860575227
+    second: John_walk_right_TEX_59
+  - first:
+      213: 5090293076784126513
+    second: John_walk_right_TEX_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: John_walk_right_TEX_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2877
+        width: 153
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bd5af7fea3f0420800000000000000
+      internalID: 2598360310329236379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2877
+        width: 157
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b50b723597004d20800000000000000
+      internalID: 3260614467594683826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2877
+        width: 162
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6afc6b175d47800800000000000000
+      internalID: 609346533976942290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_3
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 2877
+        width: 168
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ca2624a1bd21880800000000000000
+      internalID: -8641603829141164966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_4
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 2877
+        width: 173
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffacee2ada4523280800000000000000
+      internalID: -9065089995203753217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_5
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2877
+        width: 175
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a702ebfc0b2047c90800000000000000
+      internalID: -7173105348071513990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_6
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 2878
+        width: 176
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da9c91b1d08c8e30800000000000000
+      internalID: 4507118965207374551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2558
+        width: 112
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdc8f5b1df4b7b80800000000000000
+      internalID: -8396029318182416902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2558
+        width: 119
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f7093eb71d22c40800000000000000
+      internalID: 5486177626119765900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_9
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2559
+        width: 125
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82213c492e6229b0800000000000000
+      internalID: -5106397903833718131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_10
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 2559
+        width: 131
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4a042d7d6e2c370800000000000000
+      internalID: 8341483274463388892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_11
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2559
+        width: 136
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2705f1e5cff7250800000000000000
+      internalID: 5944747514334835389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_12
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 2559
+        width: 142
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9b9cc6b27037580800000000000000
+      internalID: -8830706561253262908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_13
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2559
+        width: 148
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315f72f86b2594c00800000000000000
+      internalID: 885329745794299155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2238
+        width: 101
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473691278dd4587d0800000000000000
+      internalID: -2916839591629986956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2238
+        width: 94
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dd764c70ba60380800000000000000
+      internalID: -9005322355032466051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2238
+        width: 89
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db64986f086b5520800000000000000
+      internalID: 2691859617672358865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_17
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 2238
+        width: 87
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f251f6ce9a5a80800000000000000
+      internalID: -8477288771282079621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_18
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2238
+        width: 93
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423005b0deb21610800000000000000
+      internalID: 1590543422014370374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_19
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 2238
+        width: 100
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e029eb513d7b21f40800000000000000
+      internalID: 5697818595807891982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_20
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 2238
+        width: 106
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2071743e7a6741000800000000000000
+      internalID: 5759962978916098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1924
+        width: 187
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bf221b01f639aa0800000000000000
+      internalID: -6155454148203316435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_22
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1924
+        width: 174
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb0ed8946f229b0800000000000000
+      internalID: -5106248231711359848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_23
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1922
+        width: 163
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcb0f8bef9bba100800000000000000
+      internalID: 120394318731066555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_24
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1922
+        width: 151
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640ee4f893a30ab30800000000000000
+      internalID: 4296498063403311174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_25
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1921
+        width: 138
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aaba5a4e130e2b0800000000000000
+      internalID: -5557387082073396616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_26
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1921
+        width: 127
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be862c45cfcd585d0800000000000000
+      internalID: -3060797395416487701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_27
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1921
+        width: 113
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e454dbe6de74120800000000000000
+      internalID: 2398146386475699830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1603
+        width: 178
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c235912abe831c80800000000000000
+      internalID: -8353175953763650874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1603
+        width: 182
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95af686f8979a49e0800000000000000
+      internalID: -1636328831368889767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_30
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1603
+        width: 188
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c8fbc6f4cf65f0800000000000000
+      internalID: -761173247739246239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_31
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1605
+        width: 194
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d873b6e77e4c8f0e0800000000000000
+      internalID: -2235820716452006003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_32
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1605
+        width: 202
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ada5de0fc6722840800000000000000
+      internalID: 5197847551618166178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_33
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1606
+        width: 199
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2940fa99ebd8beac0800000000000000
+      internalID: -3824807608759417710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_34
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 1608
+        width: 197
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bd01472e8a9bac0800000000000000
+      internalID: -3838851516793300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1282
+        width: 131
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0517c0988a97ef9b0800000000000000
+      internalID: -5044460767847616176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_36
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1284
+        width: 137
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8d0087a84012580800000000000000
+      internalID: -8853790399668365131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_37
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1284
+        width: 144
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ef6369506552a00800000000000000
+      internalID: 731085096512585341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_38
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1284
+        width: 150
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d51b9a1991cfcf0800000000000000
+      internalID: -217270568612700833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_39
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1284
+        width: 158
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9036c4f754158ff0800000000000000
+      internalID: -34599054134071142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_40
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1284
+        width: 165
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa9ca939e6c8a090800000000000000
+      internalID: -8022944031163245834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_41
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 1284
+        width: 171
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc721a2b5b76cb80800000000000000
+      internalID: -8374870825570763574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 963
+        width: 109
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b058d1b28b4e7090800000000000000
+      internalID: -8034901660480810825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_43
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 963
+        width: 112
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f6569bb8317df00800000000000000
+      internalID: 1141402521393524621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_44
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 963
+        width: 113
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ec3804edc63ff0800000000000000
+      internalID: -56631566021106349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_45
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 963
+        width: 116
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77fe6b72dcdc6d0800000000000000
+      internalID: -2968491008910723091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_46
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 963
+        width: 119
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871f3670eecaa75a0800000000000000
+      internalID: -6522710971966557832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_47
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 963
+        width: 122
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7caf975a21e88b0800000000000000
+      internalID: -5148156822112516182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_48
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 963
+        width: 123
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41d3e51791410db0800000000000000
+      internalID: -4827505208401342130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 644
+        width: 130
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdbd1d925ac9f3e0800000000000000
+      internalID: -2019360501726855746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_50
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 644
+        width: 125
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97a41f8bbfd32620800000000000000
+      internalID: 2748286194278508447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_51
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 642
+        width: 120
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6e69b44f3884360800000000000000
+      internalID: 7154113093341472488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_52
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 642
+        width: 113
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992e5620d2f738390800000000000000
+      internalID: -7817264696894561639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_53
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 642
+        width: 107
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be896a22b84a9f70800000000000000
+      internalID: 9194741519283228337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_54
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 642
+        width: 104
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee062c71f9177b20800000000000000
+      internalID: 3132000590820151016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_55
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 644
+        width: 106
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f10bdde991231c0800000000000000
+      internalID: -4525526505439092972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_56
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 327
+        width: 176
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcad34b0df5c2860800000000000000
+      internalID: 7506480028901551289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_57
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 326
+        width: 167
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150c4541d5eca7890800000000000000
+      internalID: -7459422933617426351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_58
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 326
+        width: 157
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c7e009f090c4b0800000000000000
+      internalID: -5422174552217631789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_59
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 326
+        width: 146
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c1a1b201840c4d0800000000000000
+      internalID: -3116411707860575227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: John_walk_right_TEX_60
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 326
+        width: 137
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1954759a54a640800000000000000
+      internalID: 5090293076784126513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
