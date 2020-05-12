@@ -185,6 +185,189 @@ TextureImporter:
   - first:
       213: 5539742638748561527
     second: John_walk_TEX_60
+  - first:
+      213: 1726084097096366704
+    second: John_walk_TEX_0
+  - first:
+      213: -2852961336619686721
+    second: John_walk_TEX_1
+  - first:
+      213: -8506805438521657353
+    second: John_walk_TEX_2
+  - first:
+      213: -3087275407874766071
+    second: John_walk_TEX_3
+  - first:
+      213: 5218732568951636740
+    second: John_walk_TEX_4
+  - first:
+      213: -3106911991736856551
+    second: John_walk_TEX_5
+  - first:
+      213: -3688870038992787890
+    second: John_walk_TEX_6
+  - first:
+      213: 70288303411162722
+    second: John_walk_TEX_7
+  - first:
+      213: 4275872264951816982
+    second: John_walk_TEX_8
+  - first:
+      213: 5615029057379348369
+    second: John_walk_TEX_9
+  - first:
+      213: 4696054129121826977
+    second: John_walk_TEX_10
+  - first:
+      213: -7012859009938044194
+    second: John_walk_TEX_11
+  - first:
+      213: -8233244453630876852
+    second: John_walk_TEX_12
+  - first:
+      213: 8152096932880238491
+    second: John_walk_TEX_13
+  - first:
+      213: -784288441810186807
+    second: John_walk_TEX_14
+  - first:
+      213: -4115165268133351224
+    second: John_walk_TEX_15
+  - first:
+      213: 5435075635338412481
+    second: John_walk_TEX_16
+  - first:
+      213: 2945066332447071693
+    second: John_walk_TEX_17
+  - first:
+      213: -4838262046296191811
+    second: John_walk_TEX_18
+  - first:
+      213: 2943631008874759299
+    second: John_walk_TEX_19
+  - first:
+      213: -3334092339353379587
+    second: John_walk_TEX_20
+  - first:
+      213: -1705562694458974673
+    second: John_walk_TEX_21
+  - first:
+      213: -1327235973658149311
+    second: John_walk_TEX_22
+  - first:
+      213: 1827420163831898081
+    second: John_walk_TEX_23
+  - first:
+      213: -167392880687943270
+    second: John_walk_TEX_24
+  - first:
+      213: 6621493911968520763
+    second: John_walk_TEX_25
+  - first:
+      213: -6100956766037036466
+    second: John_walk_TEX_26
+  - first:
+      213: -8573738561449515935
+    second: John_walk_TEX_27
+  - first:
+      213: 6841879533567124082
+    second: John_walk_TEX_28
+  - first:
+      213: 8778498808262729837
+    second: John_walk_TEX_29
+  - first:
+      213: -2065028406409199682
+    second: John_walk_TEX_30
+  - first:
+      213: -5749511270879816835
+    second: John_walk_TEX_31
+  - first:
+      213: 3741411240557145201
+    second: John_walk_TEX_32
+  - first:
+      213: 5991552364128129943
+    second: John_walk_TEX_33
+  - first:
+      213: 5902955447934106619
+    second: John_walk_TEX_34
+  - first:
+      213: 2922373730167051538
+    second: John_walk_TEX_35
+  - first:
+      213: 8927700287834365416
+    second: John_walk_TEX_36
+  - first:
+      213: -1837273205331825538
+    second: John_walk_TEX_37
+  - first:
+      213: 7807275903153741272
+    second: John_walk_TEX_38
+  - first:
+      213: -3392928884311955152
+    second: John_walk_TEX_39
+  - first:
+      213: -736281716998012539
+    second: John_walk_TEX_40
+  - first:
+      213: 4415248431557132589
+    second: John_walk_TEX_41
+  - first:
+      213: -880920978793433151
+    second: John_walk_TEX_42
+  - first:
+      213: -8215212054661038581
+    second: John_walk_TEX_43
+  - first:
+      213: 4484016720301674871
+    second: John_walk_TEX_44
+  - first:
+      213: -3085466630107407261
+    second: John_walk_TEX_45
+  - first:
+      213: 5455228654699248821
+    second: John_walk_TEX_46
+  - first:
+      213: 1279564235744936722
+    second: John_walk_TEX_47
+  - first:
+      213: -1099287072643402595
+    second: John_walk_TEX_48
+  - first:
+      213: 5685306600126778169
+    second: John_walk_TEX_49
+  - first:
+      213: 6839881467449945439
+    second: John_walk_TEX_50
+  - first:
+      213: -2726567052645055315
+    second: John_walk_TEX_51
+  - first:
+      213: -473456466363599313
+    second: John_walk_TEX_52
+  - first:
+      213: -3304092607047136006
+    second: John_walk_TEX_53
+  - first:
+      213: 6160184485477069754
+    second: John_walk_TEX_54
+  - first:
+      213: 2324061914474820892
+    second: John_walk_TEX_55
+  - first:
+      213: 1067457784424705448
+    second: John_walk_TEX_56
+  - first:
+      213: 8282634207338480451
+    second: John_walk_TEX_57
+  - first:
+      213: 1733023773651123330
+    second: John_walk_TEX_58
+  - first:
+      213: 32222330888064126
+    second: John_walk_TEX_59
+  - first:
+      213: 3340562627817443414
+    second: John_walk_TEX_60
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -285,19 +468,19 @@ TextureImporter:
       name: John_walk_TEX_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2869
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 96
+        y: 2878
+        width: 176
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ca8a6a9a46ec0980800000000000000
-      internalID: -8571222782700254519
+      spriteID: 07a31e3575844f710800000000000000
+      internalID: 1726084097096366704
       vertices: []
       indices: 
       edges: []
@@ -306,19 +489,19 @@ TextureImporter:
       name: John_walk_TEX_1
       rect:
         serializedVersion: 2
-        x: 370
-        y: 2869
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 451
+        y: 2877
+        width: 175
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8d19ccaac8010310800000000000000
-      internalID: 1369385428272618892
+      spriteID: fb42cdca7ce3868d0800000000000000
+      internalID: -2852961336619686721
       vertices: []
       indices: 
       edges: []
@@ -327,19 +510,19 @@ TextureImporter:
       name: John_walk_TEX_2
       rect:
         serializedVersion: 2
-        x: 740
-        y: 2869
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 806
+        y: 2877
+        width: 174
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfcf635169d761310800000000000000
-      internalID: 1375424819762756859
+      spriteID: 7f73e8f4681c1f980800000000000000
+      internalID: -8506805438521657353
       vertices: []
       indices: 
       edges: []
@@ -348,19 +531,19 @@ TextureImporter:
       name: John_walk_TEX_3
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 2869
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1167
+        y: 2877
+        width: 168
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5147a142beb192a50800000000000000
-      internalID: 6496754634195629077
+      spriteID: 90b43d5af5bc725d0800000000000000
+      internalID: -3087275407874766071
       vertices: []
       indices: 
       edges: []
@@ -369,19 +552,19 @@ TextureImporter:
       name: John_walk_TEX_4
       rect:
         serializedVersion: 2
-        x: 1480
-        y: 2869
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1526
+        y: 2877
+        width: 162
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e482b6fbedc983eb0800000000000000
-      internalID: -4739866127299303346
+      spriteID: 403cf161f99ac6840800000000000000
+      internalID: 5218732568951636740
       vertices: []
       indices: 
       edges: []
@@ -390,19 +573,19 @@ TextureImporter:
       name: John_walk_TEX_5
       rect:
         serializedVersion: 2
-        x: 1850
-        y: 2868
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1886
+        y: 2877
+        width: 157
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72df57f08704b2ab0800000000000000
-      internalID: -5031857274256753369
+      spriteID: 9109f10310802e4d0800000000000000
+      internalID: -3106911991736856551
       vertices: []
       indices: 
       edges: []
@@ -411,19 +594,19 @@ TextureImporter:
       name: John_walk_TEX_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2549
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2246
+        y: 2877
+        width: 152
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f3f798886aa70af0800000000000000
-      internalID: -430187873445612557
+      spriteID: e46e0477e308eccc0800000000000000
+      internalID: -3688870038992787890
       vertices: []
       indices: 
       edges: []
@@ -432,19 +615,19 @@ TextureImporter:
       name: John_walk_TEX_7
       rect:
         serializedVersion: 2
-        x: 370
-        y: 2549
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 107
+        y: 2559
+        width: 146
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 661a5e73c896b20d0800000000000000
-      internalID: -3446545038867848858
+      spriteID: 26eeface6d6b9f000800000000000000
+      internalID: 70288303411162722
       vertices: []
       indices: 
       edges: []
@@ -453,19 +636,19 @@ TextureImporter:
       name: John_walk_TEX_8
       rect:
         serializedVersion: 2
-        x: 740
-        y: 2549
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 467
+        y: 2559
+        width: 142
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70362472e5a0347e0800000000000000
-      internalID: -1782569628006718713
+      spriteID: 613e561ab23f65b30800000000000000
+      internalID: 4275872264951816982
       vertices: []
       indices: 
       edges: []
@@ -474,19 +657,19 @@ TextureImporter:
       name: John_walk_TEX_9
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 2549
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 828
+        y: 2559
+        width: 136
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33f3e55d4f11c0830800000000000000
-      internalID: 4038622709093908275
+      spriteID: 19fa7909d279ced40800000000000000
+      internalID: 5615029057379348369
       vertices: []
       indices: 
       edges: []
@@ -495,19 +678,19 @@ TextureImporter:
       name: John_walk_TEX_10
       rect:
         serializedVersion: 2
-        x: 1480
-        y: 2549
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1189
+        y: 2559
+        width: 130
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2de4771d7ca13afb0800000000000000
-      internalID: -4637833745746407726
+      spriteID: 1a81054895cbb2140800000000000000
+      internalID: 4696054129121826977
       vertices: []
       indices: 
       edges: []
@@ -516,19 +699,19 @@ TextureImporter:
       name: John_walk_TEX_11
       rect:
         serializedVersion: 2
-        x: 1850
-        y: 2549
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1550
+        y: 2559
+        width: 124
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd2d1d62c9c947570800000000000000
-      internalID: 8463561794216121053
+      spriteID: edacebcd2e15dae90800000000000000
+      internalID: -7012859009938044194
       vertices: []
       indices: 
       edges: []
@@ -537,19 +720,19 @@ TextureImporter:
       name: John_walk_TEX_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2229
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1911
+        y: 2558
+        width: 118
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a81ebbc963a83d10800000000000000
-      internalID: 2105612500580833446
+      spriteID: c4360608ac3adbd80800000000000000
+      internalID: -8233244453630876852
       vertices: []
       indices: 
       edges: []
@@ -558,19 +741,19 @@ TextureImporter:
       name: John_walk_TEX_13
       rect:
         serializedVersion: 2
-        x: 370
-        y: 2229
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2271
+        y: 2558
+        width: 112
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5f4385dc563b5850800000000000000
-      internalID: 6366742270565371738
+      spriteID: b97c0e208f0122170800000000000000
+      internalID: 8152096932880238491
       vertices: []
       indices: 
       edges: []
@@ -579,19 +762,19 @@ TextureImporter:
       name: John_walk_TEX_14
       rect:
         serializedVersion: 2
-        x: 740
-        y: 2229
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 132
+        y: 2238
+        width: 105
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b1d485b95385d020800000000000000
-      internalID: 2365941600573772210
+      spriteID: 9cd857841d5ad15f0800000000000000
+      internalID: -784288441810186807
       vertices: []
       indices: 
       edges: []
@@ -600,19 +783,19 @@ TextureImporter:
       name: John_walk_TEX_15
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 2229
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 493
+        y: 2238
+        width: 99
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 271ee31857c9bff20800000000000000
-      internalID: 3457529167430476146
+      spriteID: 8c0f2e0edfef3e6c0800000000000000
+      internalID: -4115165268133351224
       vertices: []
       indices: 
       edges: []
@@ -621,19 +804,19 @@ TextureImporter:
       name: John_walk_TEX_16
       rect:
         serializedVersion: 2
-        x: 1480
-        y: 2229
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 854
+        y: 2238
+        width: 93
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71af6443cc29a4110800000000000000
-      internalID: 1245969652669413911
+      spriteID: 1c10abb7e744d6b40800000000000000
+      internalID: 5435075635338412481
       vertices: []
       indices: 
       edges: []
@@ -642,19 +825,19 @@ TextureImporter:
       name: John_walk_TEX_17
       rect:
         serializedVersion: 2
-        x: 1850
-        y: 2229
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1215
+        y: 2238
+        width: 87
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d392b6c7fc553850800000000000000
-      internalID: 6356088668363592660
+      spriteID: dcd5879c93afed820800000000000000
+      internalID: 2945066332447071693
       vertices: []
       indices: 
       edges: []
@@ -663,19 +846,19 @@ TextureImporter:
       name: John_walk_TEX_18
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1909
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1567
+        y: 2238
+        width: 90
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ac76579dab9eb450800000000000000
-      internalID: 6106489314631646376
+      spriteID: dbcc2489d4a0bdcb0800000000000000
+      internalID: -4838262046296191811
       vertices: []
       indices: 
       edges: []
@@ -684,19 +867,19 @@ TextureImporter:
       name: John_walk_TEX_19
       rect:
         serializedVersion: 2
-        x: 370
-        y: 1909
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1919
+        y: 2238
+        width: 93
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dcd271e4235a98f0800000000000000
-      internalID: -533022188023653165
+      spriteID: 3840ec97ec0e9d820800000000000000
+      internalID: 2943631008874759299
       vertices: []
       indices: 
       edges: []
@@ -705,19 +888,19 @@ TextureImporter:
       name: John_walk_TEX_20
       rect:
         serializedVersion: 2
-        x: 740
-        y: 1909
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2269
+        y: 2238
+        width: 101
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06e41a0aa84d5b2e0800000000000000
-      internalID: -2110547158487708064
+      spriteID: dfc9d70aeaceab1d0800000000000000
+      internalID: -3334092339353379587
       vertices: []
       indices: 
       edges: []
@@ -726,19 +909,19 @@ TextureImporter:
       name: John_walk_TEX_21
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 1909
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 119
+        y: 1921
+        width: 114
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2b027712cce88570800000000000000
-      internalID: 8469279417631378220
+      spriteID: f2e5d9e04cf9458e0800000000000000
+      internalID: -1705562694458974673
       vertices: []
       indices: 
       edges: []
@@ -747,19 +930,19 @@ TextureImporter:
       name: John_walk_TEX_22
       rect:
         serializedVersion: 2
-        x: 1480
-        y: 1909
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 469
+        y: 1921
+        width: 128
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97f305d59815f77b0800000000000000
-      internalID: -5224367392308576391
+      spriteID: 14e7cf8f9e5b49de0800000000000000
+      internalID: -1327235973658149311
       vertices: []
       indices: 
       edges: []
@@ -768,19 +951,19 @@ TextureImporter:
       name: John_walk_TEX_23
       rect:
         serializedVersion: 2
-        x: 1850
-        y: 1909
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 821
+        y: 1921
+        width: 139
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6a3e74959155f4d0800000000000000
-      internalID: -3101483065491441043
+      spriteID: 1ef1698f4fc4c5910800000000000000
+      internalID: 1827420163831898081
       vertices: []
       indices: 
       edges: []
@@ -789,19 +972,19 @@ TextureImporter:
       name: John_walk_TEX_24
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1589
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1171
+        y: 1922
+        width: 151
+        height: 293
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e3e8f27d678a28100800000000000000
-      internalID: 108834569380138558
+      spriteID: a917aa8df0d4dadf0800000000000000
+      internalID: -167392880687943270
       vertices: []
       indices: 
       edges: []
@@ -810,19 +993,19 @@ TextureImporter:
       name: John_walk_TEX_25
       rect:
         serializedVersion: 2
-        x: 371
-        y: 1590
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1523
+        y: 1922
+        width: 162
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d686056753c1d5810800000000000000
-      internalID: 1755590445688186989
+      spriteID: b3a9b4971a544eb50800000000000000
+      internalID: 6621493911968520763
       vertices: []
       indices: 
       edges: []
@@ -831,19 +1014,19 @@ TextureImporter:
       name: John_walk_TEX_26
       rect:
         serializedVersion: 2
-        x: 740
-        y: 1589
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1874
+        y: 1924
+        width: 174
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 871a60f9db9d92000800000000000000
-      internalID: 11779882485195128
+      spriteID: e42b852452c055ba0800000000000000
+      internalID: -6100956766037036466
       vertices: []
       indices: 
       edges: []
@@ -852,19 +1035,19 @@ TextureImporter:
       name: John_walk_TEX_27
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 1589
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2225
+        y: 1924
+        width: 187
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e2df7b53a9eea820800000000000000
-      internalID: 2931537295288816355
+      spriteID: 164abb73436f30980800000000000000
+      internalID: -8573738561449515935
       vertices: []
       indices: 
       edges: []
@@ -873,19 +1056,19 @@ TextureImporter:
       name: John_walk_TEX_28
       rect:
         serializedVersion: 2
-        x: 1480
-        y: 1589
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 77
+        y: 1608
+        width: 198
+        height: 289
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 774d8217fbf5b1c50800000000000000
-      internalID: 6637003751702451319
+      spriteID: 272a84a9f2d33fe50800000000000000
+      internalID: 6841879533567124082
       vertices: []
       indices: 
       edges: []
@@ -894,19 +1077,19 @@ TextureImporter:
       name: John_walk_TEX_29
       rect:
         serializedVersion: 2
-        x: 1850
-        y: 1589
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 438
+        y: 1606
+        width: 199
+        height: 291
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 622a1a960a5eb56e0800000000000000
-      internalID: -1847630744975728090
+      spriteID: d60a0b7d72e73d970800000000000000
+      internalID: 8778498808262729837
       vertices: []
       indices: 
       edges: []
@@ -915,19 +1098,19 @@ TextureImporter:
       name: John_walk_TEX_30
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1269
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 798
+        y: 1605
+        width: 202
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5d5f09e447148e420800000000000000
-      internalID: 2659447547752412629
+      spriteID: ebf73e8fa9b8753e0800000000000000
+      internalID: -2065028406409199682
       vertices: []
       indices: 
       edges: []
@@ -936,19 +1119,19 @@ TextureImporter:
       name: John_walk_TEX_31
       rect:
         serializedVersion: 2
-        x: 370
-        y: 1269
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1159
+        y: 1605
+        width: 195
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0d0d77823e3fc660800000000000000
-      internalID: 7408208298790161677
+      spriteID: d739a1b16f1a530b0800000000000000
+      internalID: -5749511270879816835
       vertices: []
       indices: 
       edges: []
@@ -957,19 +1140,19 @@ TextureImporter:
       name: John_walk_TEX_32
       rect:
         serializedVersion: 2
-        x: 740
-        y: 1269
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1520
+        y: 1603
+        width: 188
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ac3bdb5165dceed0800000000000000
-      internalID: -2383295488656196448
+      spriteID: 17cef0053b92ce330800000000000000
+      internalID: 3741411240557145201
       vertices: []
       indices: 
       edges: []
@@ -978,19 +1161,19 @@ TextureImporter:
       name: John_walk_TEX_33
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 1269
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1880
+        y: 1603
+        width: 183
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcf149ab8e04d4920800000000000000
-      internalID: 2976106297068625867
+      spriteID: 793520d6125462350800000000000000
+      internalID: 5991552364128129943
       vertices: []
       indices: 
       edges: []
@@ -999,19 +1182,19 @@ TextureImporter:
       name: John_walk_TEX_34
       rect:
         serializedVersion: 2
-        x: 1480
-        y: 1269
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2241
+        y: 1603
+        width: 177
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f68b726525cf1d90800000000000000
-      internalID: -7124759321120110861
+      spriteID: bfbb11764b28be150800000000000000
+      internalID: 5902955447934106619
       vertices: []
       indices: 
       edges: []
@@ -1020,19 +1203,19 @@ TextureImporter:
       name: John_walk_TEX_35
       rect:
         serializedVersion: 2
-        x: 1850
-        y: 1269
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 102
+        y: 1284
+        width: 171
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: def14a66dfd9ce090800000000000000
-      internalID: -8003848726069895187
+      spriteID: 2155a879c6b5e8820800000000000000
+      internalID: 2922373730167051538
       vertices: []
       indices: 
       edges: []
@@ -1041,19 +1224,19 @@ TextureImporter:
       name: John_walk_TEX_36
       rect:
         serializedVersion: 2
-        x: 0
-        y: 949
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 463
+        y: 1284
+        width: 165
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a2207eb30a7961a0800000000000000
-      internalID: -6815782404550024543
+      spriteID: 8ed158d5c1095eb70800000000000000
+      internalID: 8927700287834365416
       vertices: []
       indices: 
       edges: []
@@ -1062,19 +1245,19 @@ TextureImporter:
       name: John_walk_TEX_37
       rect:
         serializedVersion: 2
-        x: 370
-        y: 949
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 824
+        y: 1284
+        width: 159
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ba4d88aa4a964b00800000000000000
-      internalID: 812506428233042611
+      spriteID: e7c6ad801c1b086e0800000000000000
+      internalID: -1837273205331825538
       vertices: []
       indices: 
       edges: []
@@ -1083,19 +1266,19 @@ TextureImporter:
       name: John_walk_TEX_38
       rect:
         serializedVersion: 2
-        x: 740
-        y: 949
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1186
+        y: 1284
+        width: 150
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 280dce2f38f162390800000000000000
-      internalID: -7843547049442357118
+      spriteID: 8dd12f6b114095c60800000000000000
+      internalID: 7807275903153741272
       vertices: []
       indices: 
       edges: []
@@ -1104,19 +1287,19 @@ TextureImporter:
       name: John_walk_TEX_39
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 949
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1548
+        y: 1284
+        width: 143
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84fe872dab3386740800000000000000
-      internalID: 5145419451758866248
+      spriteID: 0396c6ef725e9e0d0800000000000000
+      internalID: -3392928884311955152
       vertices: []
       indices: 
       edges: []
@@ -1125,19 +1308,19 @@ TextureImporter:
       name: John_walk_TEX_40
       rect:
         serializedVersion: 2
-        x: 1480
-        y: 949
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1909
+        y: 1284
+        width: 137
+        height: 294
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8176108f60f49ad0800000000000000
-      internalID: -2696265915207093874
+      spriteID: 58108bbeda338c5f0800000000000000
+      internalID: -736281716998012539
       vertices: []
       indices: 
       edges: []
@@ -1146,19 +1329,19 @@ TextureImporter:
       name: John_walk_TEX_41
       rect:
         serializedVersion: 2
-        x: 1850
-        y: 949
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2270
+        y: 1282
+        width: 131
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d21fed67632b07650800000000000000
-      internalID: 6228674231645696301
+      spriteID: d2140163e0d164d30800000000000000
+      internalID: 4415248431557132589
       vertices: []
       indices: 
       edges: []
@@ -1167,19 +1350,19 @@ TextureImporter:
       name: John_walk_TEX_42
       rect:
         serializedVersion: 2
-        x: 0
-        y: 629
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 133
+        y: 963
+        width: 123
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 632e625205026d460800000000000000
-      internalID: 7266030577401651766
+      spriteID: 1c7f3df790756c3f0800000000000000
+      internalID: -880920978793433151
       vertices: []
       indices: 
       edges: []
@@ -1188,19 +1371,19 @@ TextureImporter:
       name: John_walk_TEX_43
       rect:
         serializedVersion: 2
-        x: 370
-        y: 629
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 490
+        y: 963
+        width: 121
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06f13fce81dc617c0800000000000000
-      internalID: -4100864903735992480
+      spriteID: b0efb6f8924bdfd80800000000000000
+      internalID: -8215212054661038581
       vertices: []
       indices: 
       edges: []
@@ -1209,19 +1392,19 @@ TextureImporter:
       name: John_walk_TEX_44
       rect:
         serializedVersion: 2
-        x: 740
-        y: 629
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 846
+        y: 963
+        width: 120
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a22355702623e190800000000000000
-      internalID: -7934456197647490391
+      spriteID: 7715e74237d6a3e30800000000000000
+      internalID: 4484016720301674871
       vertices: []
       indices: 
       edges: []
@@ -1230,19 +1413,19 @@ TextureImporter:
       name: John_walk_TEX_45
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 629
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1204
+        y: 963
+        width: 117
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b801c12aad30808f0800000000000000
-      internalID: -574204714932236149
+      spriteID: 36c502a82783e25d0800000000000000
+      internalID: -3085466630107407261
       vertices: []
       indices: 
       edges: []
@@ -1251,19 +1434,19 @@ TextureImporter:
       name: John_walk_TEX_46
       rect:
         serializedVersion: 2
-        x: 1480
-        y: 629
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1561
+        y: 963
+        width: 114
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5e49b72541a58a290800000000000000
-      internalID: -7878948504755006235
+      spriteID: 5bc71e3fe8dd4bb40800000000000000
+      internalID: 5455228654699248821
       vertices: []
       indices: 
       edges: []
@@ -1272,19 +1455,19 @@ TextureImporter:
       name: John_walk_TEX_47
       rect:
         serializedVersion: 2
-        x: 1850
-        y: 629
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1919
+        y: 963
+        width: 110
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 709165315be463d60800000000000000
-      internalID: 7869563938496977159
+      spriteID: 2130fda94ece1c110800000000000000
+      internalID: 1279564235744936722
       vertices: []
       indices: 
       edges: []
@@ -1293,19 +1476,19 @@ TextureImporter:
       name: John_walk_TEX_48
       rect:
         serializedVersion: 2
-        x: 0
-        y: 309
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 2275
+        y: 963
+        width: 109
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22044c8da46b4bf90800000000000000
-      internalID: -6938720693290516446
+      spriteID: d9439e05b3c8eb0f0800000000000000
+      internalID: -1099287072643402595
       vertices: []
       indices: 
       edges: []
@@ -1314,19 +1497,19 @@ TextureImporter:
       name: John_walk_TEX_49
       rect:
         serializedVersion: 2
-        x: 369
-        y: 309
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 132
+        y: 644
+        width: 107
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4b5f758f49a95e90800000000000000
-      internalID: -7036406783782462644
+      spriteID: 93b8db31b3446ee40800000000000000
+      internalID: 5685306600126778169
       vertices: []
       indices: 
       edges: []
@@ -1335,19 +1518,19 @@ TextureImporter:
       name: John_walk_TEX_50
       rect:
         serializedVersion: 2
-        x: 740
-        y: 309
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 485
+        y: 642
+        width: 106
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e70bef70f36c98940800000000000000
-      internalID: 5298984410597470334
+      spriteID: f5da12594f32cee50800000000000000
+      internalID: 6839881467449945439
       vertices: []
       indices: 
       edges: []
@@ -1356,19 +1539,19 @@ TextureImporter:
       name: John_walk_TEX_51
       rect:
         serializedVersion: 2
-        x: 1110
-        y: 309
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 840
+        y: 642
+        width: 107
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f3de32a034183f70800000000000000
-      internalID: 9167099240625656823
+      spriteID: da4ceca26b9492ad0800000000000000
+      internalID: -2726567052645055315
       vertices: []
       indices: 
       edges: []
@@ -1377,19 +1560,19 @@ TextureImporter:
       name: John_walk_TEX_52
       rect:
         serializedVersion: 2
-        x: 1480
-        y: 309
-        width: 370
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1193
+        y: 642
+        width: 114
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d3f49e0f6b72f3b0800000000000000
-      internalID: -5480182079640243240
+      spriteID: f2639c13ad1fd69f0800000000000000
+      internalID: -473456466363599313
       vertices: []
       indices: 
       edges: []
@@ -1398,19 +1581,19 @@ TextureImporter:
       name: John_walk_TEX_53
       rect:
         serializedVersion: 2
-        x: 2220
-        y: 2869
-        width: 280
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1547
+        y: 642
+        width: 119
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bef9b98817d35e760800000000000000
-      internalID: 7486457513405816811
+      spriteID: afc06fb97418522d0800000000000000
+      internalID: -3304092607047136006
       vertices: []
       indices: 
       edges: []
@@ -1419,19 +1602,19 @@ TextureImporter:
       name: John_walk_TEX_54
       rect:
         serializedVersion: 2
-        x: 2220
-        y: 2549
-        width: 280
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1900
+        y: 644
+        width: 126
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea6d7daaeed408040800000000000000
-      internalID: 4647800502910178990
+      spriteID: ab3bbb7c62f5d7550800000000000000
+      internalID: 6160184485477069754
       vertices: []
       indices: 
       edges: []
@@ -1440,19 +1623,19 @@ TextureImporter:
       name: John_walk_TEX_55
       rect:
         serializedVersion: 2
-        x: 2220
-        y: 2229
-        width: 280
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2255
+        y: 644
+        width: 131
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39da2ae394ee646f0800000000000000
-      internalID: -700610693658661485
+      spriteID: c1539407ff9b04020800000000000000
+      internalID: 2324061914474820892
       vertices: []
       indices: 
       edges: []
@@ -1461,19 +1644,19 @@ TextureImporter:
       name: John_walk_TEX_56
       rect:
         serializedVersion: 2
-        x: 2220
-        y: 1909
-        width: 280
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 108
+        y: 326
+        width: 137
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a56b67926d5442740800000000000000
-      internalID: 5126299061975430746
+      spriteID: 8ad2c55033f50de00800000000000000
+      internalID: 1067457784424705448
       vertices: []
       indices: 
       edges: []
@@ -1482,19 +1665,19 @@ TextureImporter:
       name: John_walk_TEX_57
       rect:
         serializedVersion: 2
-        x: 2220
-        y: 1588
-        width: 280
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 462
+        y: 326
+        width: 147
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 980d164aaee028770800000000000000
-      internalID: 8611461838428819593
+      spriteID: 343c8e4ade3d1f270800000000000000
+      internalID: 8282634207338480451
       vertices: []
       indices: 
       edges: []
@@ -1503,19 +1686,19 @@ TextureImporter:
       name: John_walk_TEX_58
       rect:
         serializedVersion: 2
-        x: 2220
-        y: 1269
-        width: 280
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 816
+        y: 325
+        width: 157
+        height: 297
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1f5f0070b76e50370800000000000000
-      internalID: 8288284105318135281
+      spriteID: 28c38cfa0ffec0810800000000000000
+      internalID: 1733023773651123330
       vertices: []
       indices: 
       edges: []
@@ -1524,19 +1707,19 @@ TextureImporter:
       name: John_walk_TEX_59
       rect:
         serializedVersion: 2
-        x: 2220
-        y: 949
-        width: 280
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1170
+        y: 326
+        width: 166
+        height: 296
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 68deac4ce1577c340800000000000000
-      internalID: 4884001095917694342
+      spriteID: e7c0b6a0a0a727000800000000000000
+      internalID: 32222330888064126
       vertices: []
       indices: 
       edges: []
@@ -1545,19 +1728,19 @@ TextureImporter:
       name: John_walk_TEX_60
       rect:
         serializedVersion: 2
-        x: 2220
-        y: 629
-        width: 280
-        height: 320
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1525
+        y: 327
+        width: 176
+        height: 295
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77071b1449e11ec40800000000000000
-      internalID: 5539742638748561527
+      spriteID: 650110dc2001c5e20800000000000000
+      internalID: 3340562627817443414
       vertices: []
       indices: 
       edges: []
