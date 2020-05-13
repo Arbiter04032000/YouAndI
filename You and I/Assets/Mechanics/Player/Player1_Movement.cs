@@ -1,28 +1,65 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class Player1_Movement : MonoBehaviour
 {
-
-    public float moveSpeed = 5f;
-
-    public Rigidbody2D rb;
-
-    Vector2 movement;
+    public float speed = 10f;
+    public float deadZone = 1f;
 
 
-    // Update is called once per frame
+    Player1_Controls controls;
+    float move;
+    float width;
+
+    void Awake()
+    {
+        controls = new Player1_Controls();
+        width = gameObject.transform.localScale.x;
+
+
+        controls.Gameplay.Move.performed += ProcessMovement;
+        controls.Gameplay.Move.canceled += StopMovement;
+    }
+
+    private void ProcessMovement(InputAction.CallbackContext controller)
+    {
+        move = controller.ReadValue<float>();
+    }
+
+    private void StopMovement(InputAction.CallbackContext controller)
+    {
+        move = 0f;
+    }
+
     void Update()
     {
-        //Input
-        //movement.x = Input.GetAxis("HorizontalMove1");
+        print(move);
+        if (move < -deadZone)
+        {
+            gameObject.transform.localScale = new Vector3(width, gameObject.transform.localScale.y, gameObject.transform.localScale.z);
+        }
+        else if (move > deadZone)
+        {
+            gameObject.transform.localScale = new Vector3(-width, gameObject.transform.localScale.y, gameObject.transform.localScale.z);
+        }
+
+        Vector2 m = new Vector2(move * speed, 0f) * Time.deltaTime;
+        transform.Translate(m, Space.World);
     }
 
-
-    private void FixedUpdate()
+    void OnEnable()
     {
-        //Movement
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        controls.Gameplay.Enable();
     }
+
+    void OnDisable()
+    {
+
+
+        controls.Gameplay.Disable();
+
+    }
+
+
 }
+

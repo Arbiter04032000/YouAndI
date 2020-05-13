@@ -15,7 +15,7 @@ public class CursorScript : MonoBehaviour
     {
         controls = new Controls();
 
-        InputUser.PerformPairingWithDevice(controller1);
+        //InputUser.PerformPairingWithDevice(controller1);
     }
 
     void MoveCursor()
