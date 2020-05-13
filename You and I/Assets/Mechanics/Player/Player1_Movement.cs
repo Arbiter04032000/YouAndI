@@ -5,6 +5,7 @@ public class Player1_Movement : MonoBehaviour
 {
     public float speed = 10f;
     public float deadZone = 1f;
+    public Animator animator;
 
 
     Player1_Controls controls;
@@ -45,6 +46,8 @@ public class Player1_Movement : MonoBehaviour
 
         Vector2 m = new Vector2(move * speed, 0f) * Time.deltaTime;
         transform.Translate(m, Space.World);
+
+        animator.SetFloat("speed", Mathf.Abs(move));
     }
 
     void OnEnable()

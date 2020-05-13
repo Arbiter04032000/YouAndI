@@ -409,6 +409,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 200
   deadZone: 0.5
+  animator: {fileID: 361486362}
 --- !u!95 &361486362
 Animator:
   serializedVersion: 3
@@ -417,7 +418,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 361486357}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: ac51a27513cd50544b95e7bc0771103b, type: 2}
   m_CullingMode: 0
