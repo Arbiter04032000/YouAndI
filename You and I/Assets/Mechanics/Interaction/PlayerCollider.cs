@@ -10,19 +10,37 @@ public class PlayerCollider : MonoBehaviour
     Player1_Controls controls;
     Player1_Movement player;
 
-    private void Awake()
+    void Awake()
     {
         controls = new Player1_Controls();
         player = gameObject.GetComponent<Player1_Movement>();
+        
+        controls.Gameplay.Interact.performed += ctx => Interact();
+    }
+
+    void Interact()
+    {
+        print("Attempting dialogue");
+        target.onClick.Invoke();
+    }
+
+     void OnEnable()
+    {
+        controls.Gameplay.Enable();
+    }
+
+    void OnDisable()
+    {
+        controls.Gameplay.Disable();
     }
 
     private void Update()
     {
-        if(Input.GetKeyDown(KeyCode.A) && player.enabled == true)
-        {
-            print("Attempting dialogue");
-            target.onClick.Invoke();
-        }
+       // if(Input.GetKeyDown(KeyCode.A) && player.enabled == true)
+       // {
+        //    print("Attempting dialogue");
+        //    target.onClick.Invoke();
+      //  }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
