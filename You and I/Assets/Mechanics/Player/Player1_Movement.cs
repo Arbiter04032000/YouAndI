@@ -34,7 +34,7 @@ public class Player1_Movement : MonoBehaviour
 
     void Update()
     {
-        print(move);
+        //print(move);
         if (move < -deadZone)
         {
             gameObject.transform.localScale = new Vector3(width, gameObject.transform.localScale.y, gameObject.transform.localScale.z);

@@ -16,6 +16,7 @@ public class DialogueMan : MonoBehaviour
     public GameObject boxParent;
 
     public Inventory inventory;
+    public Player1_Movement player;
 
     void Start()
     {
@@ -33,6 +34,8 @@ public class DialogueMan : MonoBehaviour
 
         nameText.text = dialogue.name;
         queue.Clear();
+
+        player.enabled = false;
 
         foreach (string sentence in dialogue.sentences)
         {
@@ -85,6 +88,8 @@ public class DialogueMan : MonoBehaviour
 
         boxParent.SetActive(false);
         Debug.Log("Dialogue ended");
+
+        player.enabled = true;
     }
 
     void ShowDialogueOptions()
