@@ -444,6 +444,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 0}
+  diagActive: 0
 --- !u!61 &361486364
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -457,7 +458,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 1.4800005}
+  m_Offset: {x: -0.0031296462, y: 1.4800005}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -468,7 +469,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.7605275, y: 2.96}
+  m_Size: {x: 0.7448374, y: 2.96}
   m_EdgeRadius: 0
 --- !u!1 &403163575 stripped
 GameObject:
@@ -899,6 +900,7 @@ MonoBehaviour:
   coinLamp: 0
   coinPainting: 0
   coinHatch: 0
+  coins: 
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -1231,7 +1233,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1043437235}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.01}
   m_LocalScale: {x: 120, y: 120, z: 1}
   m_Children: []
   m_Father: {fileID: 474785963}
