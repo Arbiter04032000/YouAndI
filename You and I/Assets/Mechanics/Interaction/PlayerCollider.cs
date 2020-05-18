@@ -47,6 +47,7 @@ public class PlayerCollider : MonoBehaviour
     {
         print("Entered Trigger");
         target = collision.gameObject.GetComponent<Button>();
+        target.GetComponent<SpriteRenderer>().color = Color.cyan;
     }
 
 

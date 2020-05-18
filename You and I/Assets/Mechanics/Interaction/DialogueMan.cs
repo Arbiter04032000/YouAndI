@@ -83,7 +83,7 @@ public class DialogueMan : MonoBehaviour
         //animator.SetBool("IsOpen", false);
         if(dialogueScript.itemLine == true)
         {
-            //dialogueScript.transform.GetComponent<ItemCore>().TakeItem();
+            
         }
 
         boxParent.SetActive(false);

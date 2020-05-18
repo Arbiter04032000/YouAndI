@@ -5,7 +5,7 @@ using UnityEngine;
 [System.Serializable]
 public class ItemCore : MonoBehaviour
 {
-    public string itemName;
+    /*public string itemName;
     public int itemIndex;
     bool hasItem;
     public bool removeOnPickup;
@@ -19,6 +19,6 @@ public class ItemCore : MonoBehaviour
         {
             transform.gameObject.SetActive(false);
         }
-    }
+    }*/
 
 }
