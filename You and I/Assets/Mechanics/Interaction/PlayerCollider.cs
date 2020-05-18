@@ -34,14 +34,14 @@ public class PlayerCollider : MonoBehaviour
         controls.Gameplay.Disable();
     }
 
-    private void Update()
+    /*private void Update()
     {
-       // if(Input.GetKeyDown(KeyCode.A) && player.enabled == true)
-       // {
-        //    print("Attempting dialogue");
-        //    target.onClick.Invoke();
-      //  }
-    }
+        if(Input.GetKeyDown(KeyCode.A) && player.enabled == true)
+        {
+            print("Attempting dialogue");
+            target.onClick.Invoke();
+        }
+    }*/
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -49,5 +49,10 @@ public class PlayerCollider : MonoBehaviour
         target = collision.gameObject.GetComponent<Button>();
     }
 
-    
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        target.GetComponent<SpriteRenderer>().color = Color.white;
+        target = null;
+    }
 }

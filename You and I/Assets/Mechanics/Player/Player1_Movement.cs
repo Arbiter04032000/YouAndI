@@ -57,7 +57,7 @@ public class Player1_Movement : MonoBehaviour
 
     void OnDisable()
     {
-
+        animator.SetFloat("speed", 0);
 
         controls.Gameplay.Disable();
 
