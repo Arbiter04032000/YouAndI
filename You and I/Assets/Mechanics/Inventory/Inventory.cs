@@ -8,4 +8,13 @@ public class Inventory : MonoBehaviour
     public bool coinLamp;
     public bool coinPainting;
     public bool coinHatch;
+
+    public List<bool> coins;
+
+    private void Awake()
+    {
+        coins.Add(coinLamp);
+        coins.Add(coinPainting);
+        coins.Add(coinHatch);
+    }
 }

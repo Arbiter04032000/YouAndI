@@ -17,16 +17,36 @@ public class DialogueMan : MonoBehaviour
 
     public Inventory inventory;
     public Player1_Movement player;
+    private PlayerCollider playerColl;
+
+    Player1_Controls controls;
+
+    List<Button> responsesList;
+    int i;
+    Button target;
 
     void Start()
     {
+        i = 0;
         queue = new Queue<string>();
         dialogueOptions.SetActive(false);
+        playerColl = player.GetComponent<PlayerCollider>();
+
+        controls = new Player1_Controls();
+
+        controls.Gameplay.Interact.performed += ctx => Interact();
+        foreach(Transform child in dialogueOptions.transform)
+        {
+            responsesList[i] = child.GetComponent<Button>();
+            i++;
+        }
     }
+
+    
 
     public void startDialogue(Dialogue dialogue)
     {
-        
+
 
         HideDialogueOptions();
         //animator.SetBool("IsOpen", true);
@@ -45,6 +65,19 @@ public class DialogueMan : MonoBehaviour
         dialogueScript = dialogue;
 
         DisplayNextSentence();
+    }
+
+    void Interact()
+    {
+        print("Attempting continue");
+        if (contButton.activeSelf == true)
+        {
+            contButton.GetComponent<Button>().onClick.Invoke();
+        }
+        if (dialogueOptions.activeSelf == true)
+        {
+            target.onClick.Invoke();
+        }
     }
 
     public void DisplayNextSentence()
@@ -90,6 +123,7 @@ public class DialogueMan : MonoBehaviour
         Debug.Log("Dialogue ended");
 
         player.enabled = true;
+        playerColl.diagActive = false;
     }
 
     void ShowDialogueOptions()
@@ -133,5 +167,16 @@ public class DialogueMan : MonoBehaviour
         dialogueOptions.SetActive(false);
         contButton.SetActive(true);
     }
+
+    void OnEnable()
+    {
+        controls.Gameplay.Enable();
+    }
+
+    void OnDisable()
+    {
+        controls.Gameplay.Disable();
+    }
+
 }
 

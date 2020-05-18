@@ -41,6 +41,14 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""expectedControlType"": ""Button"",
                     ""processors"": """",
                     ""interactions"": """"
+                },
+                {
+                    ""name"": ""Next"",
+                    ""type"": ""Button"",
+                    ""id"": ""c26d8a1a-aef3-4d76-bf9b-bf4e2fb0f93a"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """"
                 }
             ],
             ""bindings"": [
@@ -76,6 +84,17 @@ public class @Controls : IInputActionCollection, IDisposable
                     ""action"": ""Interact"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""02e8e550-9525-4a2b-812a-a98fbddb8f5a"",
+                    ""path"": ""<Gamepad>/buttonEast"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Next"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -99,6 +118,7 @@ public class @Controls : IInputActionCollection, IDisposable
         m_Gameplay_RightStick = m_Gameplay.FindAction("RightStick", throwIfNotFound: true);
         m_Gameplay_move = m_Gameplay.FindAction("move", throwIfNotFound: true);
         m_Gameplay_Interact = m_Gameplay.FindAction("Interact", throwIfNotFound: true);
+        m_Gameplay_Next = m_Gameplay.FindAction("Next", throwIfNotFound: true);
     }
 
     public void Dispose()
@@ -151,6 +171,7 @@ public class @Controls : IInputActionCollection, IDisposable
     private readonly InputAction m_Gameplay_RightStick;
     private readonly InputAction m_Gameplay_move;
     private readonly InputAction m_Gameplay_Interact;
+    private readonly InputAction m_Gameplay_Next;
     public struct GameplayActions
     {
         private @Controls m_Wrapper;
@@ -158,6 +179,7 @@ public class @Controls : IInputActionCollection, IDisposable
         public InputAction @RightStick => m_Wrapper.m_Gameplay_RightStick;
         public InputAction @move => m_Wrapper.m_Gameplay_move;
         public InputAction @Interact => m_Wrapper.m_Gameplay_Interact;
+        public InputAction @Next => m_Wrapper.m_Gameplay_Next;
         public InputActionMap Get() { return m_Wrapper.m_Gameplay; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -176,6 +198,9 @@ public class @Controls : IInputActionCollection, IDisposable
                 @Interact.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnInteract;
                 @Interact.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnInteract;
                 @Interact.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnInteract;
+                @Next.started -= m_Wrapper.m_GameplayActionsCallbackInterface.OnNext;
+                @Next.performed -= m_Wrapper.m_GameplayActionsCallbackInterface.OnNext;
+                @Next.canceled -= m_Wrapper.m_GameplayActionsCallbackInterface.OnNext;
             }
             m_Wrapper.m_GameplayActionsCallbackInterface = instance;
             if (instance != null)
@@ -189,6 +214,9 @@ public class @Controls : IInputActionCollection, IDisposable
                 @Interact.started += instance.OnInteract;
                 @Interact.performed += instance.OnInteract;
                 @Interact.canceled += instance.OnInteract;
+                @Next.started += instance.OnNext;
+                @Next.performed += instance.OnNext;
+                @Next.canceled += instance.OnNext;
             }
         }
     }
@@ -207,5 +235,6 @@ public class @Controls : IInputActionCollection, IDisposable
         void OnRightStick(InputAction.CallbackContext context);
         void OnMove(InputAction.CallbackContext context);
         void OnInteract(InputAction.CallbackContext context);
+        void OnNext(InputAction.CallbackContext context);
     }
 }

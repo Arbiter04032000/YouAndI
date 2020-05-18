@@ -10,6 +10,8 @@ public class PlayerCollider : MonoBehaviour
     Player1_Controls controls;
     Player1_Movement player;
 
+    public bool diagActive;
+
     void Awake()
     {
         controls = new Player1_Controls();
@@ -20,8 +22,14 @@ public class PlayerCollider : MonoBehaviour
 
     void Interact()
     {
-        print("Attempting dialogue");
-        target.onClick.Invoke();
+        if (diagActive != true)
+        {
+            print("Attempting dialogue");
+            target.onClick.Invoke();
+            diagActive = true;
+        }
+
+
     }
 
      void OnEnable()
