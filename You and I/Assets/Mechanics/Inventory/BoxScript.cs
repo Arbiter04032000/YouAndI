@@ -19,7 +19,7 @@ public class BoxScript : MonoBehaviour
             print(coin);
             if (coin == false)
             {
-                FindObjectOfType<DialogueMan>().startDialogue(dialogueFail);
+                FindObjectOfType<DialogueMan>().startDialogue(dialogueFail, this.gameObject);
                 return;
             }
 
@@ -31,7 +31,8 @@ public class BoxScript : MonoBehaviour
 
         if(i == 3)
         {
-            FindObjectOfType<DialogueMan>().startDialogue(dialogueSuccess);
+            FindObjectOfType<DialogueMan>().startDialogue(dialogueSuccess, this.gameObject);
+            selfSprite.sprite = spriteFull;
         }
     }
 }

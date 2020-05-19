@@ -9,7 +9,7 @@ public class DialogueMan : MonoBehaviour
     public Text nameText;
     public Text diagText;
     public GameObject contButton;
-    //public Animator animator;
+
     private Queue<string> queue;
     private Dialogue dialogueScript;
 
@@ -24,33 +24,34 @@ public class DialogueMan : MonoBehaviour
 
     List<Button> responsesList;
     int i;
+    int i2;
     Button target;
 
+    int itemTarget;
+    GameObject diagSource;
+    
+    //public InputTest;
     void Start()
     {
         i = 0;
         queue = new Queue<string>();
         dialogueOptions.SetActive(false);
         playerColl = player.GetComponent<PlayerCollider>();
+        controls = playerColl.controls;
+        controls.Gameplay.Next.performed += ctx => InteractDiag();
 
-        controls = new Player1_Controls();
-
-        controls.Gameplay.Interact.performed += ctx => Interact();
-        foreach(Transform child in dialogueOptions.transform)
+        foreach(Transform child in dialogueOptions.transform.GetChild(i))
         {
             responsesList[i] = child.GetComponent<Button>();
             i++;
         }
     }
 
-    
-
-    public void startDialogue(Dialogue dialogue)
+    public void startDialogue(Dialogue dialogue, GameObject source)
     {
-
+        diagSource = source;
 
         HideDialogueOptions();
-        //animator.SetBool("IsOpen", true);
         boxParent.SetActive(true);
 
         nameText.text = dialogue.name;
@@ -68,7 +69,7 @@ public class DialogueMan : MonoBehaviour
         DisplayNextSentence();
     }
 
-    void Interact()
+    void InteractDiag()
     {
         print("Attempting continue");
         if (contButton.activeSelf == true)
@@ -96,8 +97,7 @@ public class DialogueMan : MonoBehaviour
         }
 
         string sentence = queue.Dequeue();
-
-        //diagText.text = sentence;
+        
         StopAllCoroutines();
         StartCoroutine(TypeSentence(sentence));
     }
@@ -114,10 +114,17 @@ public class DialogueMan : MonoBehaviour
 
     public void EndDialogue()
     {
-        //animator.SetBool("IsOpen", false);
         if(dialogueScript.itemLine == true)
         {
-            
+            itemTarget = dialogueScript.itemID;
+            inventory.coins[itemTarget] = true;
+            diagSource.SetActive(false);
+
+            boxParent.SetActive(false);
+            Debug.Log("Dialogue ended");
+
+            player.enabled = true;
+            playerColl.diagActive = false;
         }
 
         boxParent.SetActive(false);
@@ -153,13 +160,6 @@ public class DialogueMan : MonoBehaviour
 
             i++;
         }
-        /*foreach (Transform response in dialogueOptions.transform.GetChild(0).GetChild(0))
-        {
-            if (response.GetComponentInChildren<Text>().text == "")
-            {
-                response.gameObject.SetActive(false);
-            }
-        }*/
         
     }
 
@@ -169,15 +169,7 @@ public class DialogueMan : MonoBehaviour
         contButton.SetActive(true);
     }
 
-    void OnEnable()
-    {
-        controls.Gameplay.Enable();
-    }
-
-    void OnDisable()
-    {
-        controls.Gameplay.Disable();
-    }
+    
 
 }
 

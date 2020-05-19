@@ -7,10 +7,13 @@ using UnityEngine.InputSystem;
 public class PlayerCollider : MonoBehaviour
 {
     public Button target;
-    Player1_Controls controls;
+    public Player1_Controls controls;
     Player1_Movement player;
 
+    public DialogueMan diag;
     public bool diagActive;
+
+    Color newColor;
 
     void Awake()
     {
@@ -18,6 +21,8 @@ public class PlayerCollider : MonoBehaviour
         player = gameObject.GetComponent<Player1_Movement>();
         
         controls.Gameplay.Interact.performed += ctx => Interact();
+
+        newColor = new Color(0.5f, 1f, 1f, 1f);
     }
 
     void Interact()
@@ -28,7 +33,6 @@ public class PlayerCollider : MonoBehaviour
             target.onClick.Invoke();
             diagActive = true;
         }
-
 
     }
 
@@ -55,7 +59,7 @@ public class PlayerCollider : MonoBehaviour
     {
         print("Entered Trigger");
         target = collision.gameObject.GetComponent<Button>();
-        target.GetComponent<SpriteRenderer>().color = Color.cyan;
+        target.GetComponent<SpriteRenderer>().color = newColor;
     }
 
 

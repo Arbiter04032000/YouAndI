@@ -6,9 +6,10 @@ public class DialogueTrigger : MonoBehaviour
 {
     public string treeTitle;
     public Dialogue dialogue;
+    
 
     public void TriggerDialogue()
     {
-        FindObjectOfType<DialogueMan>().startDialogue(dialogue);
+        FindObjectOfType<DialogueMan>().startDialogue(dialogue, this.gameObject);
     }
 }
