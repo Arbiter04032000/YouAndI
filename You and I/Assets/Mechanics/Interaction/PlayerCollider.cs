@@ -27,6 +27,10 @@ public class PlayerCollider : MonoBehaviour
 
     void Interact()
     {
+        if (target == null)
+        {
+            return;
+        }
         if (diagActive != true)
         {
             print("Attempting dialogue");

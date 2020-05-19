@@ -37,11 +37,11 @@ public class Player1_Movement : MonoBehaviour
         //print(move);
         if (move < -deadZone)
         {
-            gameObject.transform.localScale = new Vector3(width, gameObject.transform.localScale.y, gameObject.transform.localScale.z);
+            gameObject.transform.localScale = new Vector3(-width, gameObject.transform.localScale.y, gameObject.transform.localScale.z);
         }
         else if (move > deadZone)
         {
-            gameObject.transform.localScale = new Vector3(-width, gameObject.transform.localScale.y, gameObject.transform.localScale.z);
+            gameObject.transform.localScale = new Vector3(width, gameObject.transform.localScale.y, gameObject.transform.localScale.z);
         }
 
         Vector2 m = new Vector2(move * speed, 0f) * Time.deltaTime;

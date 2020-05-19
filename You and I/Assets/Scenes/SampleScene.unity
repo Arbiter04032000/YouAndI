@@ -425,6 +425,7 @@ GameObject:
   - component: {fileID: 286652490}
   - component: {fileID: 286652489}
   - component: {fileID: 286652488}
+  - component: {fileID: 286652491}
   m_Layer: 0
   m_Name: Camera
   m_TagString: MainCamera
@@ -497,6 +498,29 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &286652491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 286652487}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e20cdee27a4de14bbdc3b7bc935e612, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue:
+    name: 
+    itemLine: 0
+    itemID: 0
+    sentences:
+    - You manage to make your way into the house. Despite it's largely abandoned
+      state, there's still power.
+    - That'll make your job much easier, but not any less disturbing.
+    - "\u201CNope, just as creepy on the inside.\" You sigh, \"Let\u2019s get this
+      over with\u201D\r\n"
+    responses: []
 --- !u!1 &361486357
 GameObject:
   m_ObjectHideFlags: 0
@@ -575,7 +599,7 @@ SpriteRenderer:
   m_Sprite: {fileID: -8571222782700254519, guid: 18c14d5e4a2ba3a4c96182728a660e9e,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1.7605275, y: 2.96}
@@ -1000,6 +1024,22 @@ PrefabInstance:
         type: 3}
       propertyPath: m_SizeDelta.x
       value: 568
+      objectReference: {fileID: 0}
+    - target: {fileID: 5612779599522915831, guid: 4795d76a2bbd5654ea10d22446bdbdfc,
+        type: 3}
+      propertyPath: m_Text
+      value: You manage to make your way into the house. Despite it's largely abandoned
+        state, there's still power.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5612779599522915831, guid: 4795d76a2bbd5654ea10d22446bdbdfc,
+        type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 26
+      objectReference: {fileID: 0}
+    - target: {fileID: 5612779599522915831, guid: 4795d76a2bbd5654ea10d22446bdbdfc,
+        type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5612779599715064817, guid: 4795d76a2bbd5654ea10d22446bdbdfc,
         type: 3}
