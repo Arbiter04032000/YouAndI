@@ -40,11 +40,11 @@ public class DialogueMan : MonoBehaviour
         controls = playerColl.controls;
         controls.Gameplay.Next.performed += ctx => InteractDiag();
 
-        foreach(Transform child in dialogueOptions.transform.GetChild(i))
+        /*foreach(Transform child in dialogueOptions.transform.GetChild(i))
         {
             responsesList[i] = child.GetComponent<Button>();
             i++;
-        }
+        }*/
     }
 
     public void startDialogue(Dialogue dialogue, GameObject source)
