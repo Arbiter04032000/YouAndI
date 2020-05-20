@@ -15,6 +15,8 @@ public class PlayerCollider : MonoBehaviour
 
     Color newColor;
 
+    public Collider2D collider;
+
     void Awake()
     {
         controls = new Player1_Controls();
@@ -29,7 +31,7 @@ public class PlayerCollider : MonoBehaviour
     {
         if (target == null)
         {
-            return;
+            return; 
         }
         if (diagActive != true)
         {
